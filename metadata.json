@@ -1,0 +1,15 @@
+{
+  "name": "rdhakal-ssh",
+  "version": "0.1.0",
+  "author": "rdhakal",
+  "summary": "this is ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rdhakal/puppet-ssh",
+  "project_page": "https://github.com/rdhakal/puppet-ssh",
+  "issues_url": "https://github.com/rdhakal/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
